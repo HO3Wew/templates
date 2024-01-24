@@ -1,0 +1,70 @@
+
+.features p {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  margin: 0 5px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  text-align: center;
+}
+#demotext {
+color: #FFFFFF;
+background: #232323;
+text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+color: #FFFFFF;
+background: #232323;
+}
+.feature-furniture {
+  padding-top: 65px;
+  background-image: url("img/maxresdefault.jpg");
+}
+
+
+.advantages {
+  width: 510px;
+  margin: 0 auto 40px;
+  padding: 0 20px;
+}
+
+.advantages-list {
+  padding: 0;
+  list-style: none;  
+}
+
+.advantages-item {
+  margin-bottom: 15px;
+  padding-left: 20px;
+  border-left: 20px solid ;
+  color: black;
+}
+
+.standard {
+  border-color: #2ff768;
+  color: black;
+}
+
+/* Добавьте правило для класса vip сюда */
+.vip {
+  border-color: #2f7ff7 ;
+  color: black;
+}
+
+
+.site-footer {
+  min-width: 550px;
+  background-color: #193391;
+  color: #ffffff;
+}
+
+.site-footer .container {
+  text-align: center;
+}
+
+.site-footer p {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 20px;
+}
+
+
